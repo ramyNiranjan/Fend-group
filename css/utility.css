@@ -1,0 +1,18 @@
+.error {
+  font-size: 30px;
+  color: red;
+  text-align: center;
+  padding: 30px;
+}
+
+.card {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: #64c2fcc0;
+  margin: 10px;
+  padding: 1em;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+          box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+/*# sourceMappingURL=utility.css.map */
